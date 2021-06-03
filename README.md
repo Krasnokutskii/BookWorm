@@ -1,5 +1,5 @@
 # BookWorm
-This game contains one word and you should create different word from it. 
+This game contains one long word and you should create different word from it. 
 ## Tools to implement the project
   - Bundle.main.url
   - String(contentsof:)
