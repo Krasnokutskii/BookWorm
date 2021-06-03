@@ -9,7 +9,7 @@ This game contains one word and you should create different word from it.
   - NSRange
  
  ## Project Screen Shots
-<img src="Screen2.png" width="200"> <img src="Screen1.png" width="200">
+<img src="Screen1.png" width="200"> <img src="Screen2.png" width="200"><img src="Screen3.png" width="200">
 
 ## More features soon 
 - colorfullness
