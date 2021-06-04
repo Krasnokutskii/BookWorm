@@ -1,6 +1,6 @@
 # BookWorm
 This game contains one long word and you should create different word from it. 
-## Tools to implement the project
+## Tools implemented in project
   - Bundle.main.url
   - String(contentsof:)
   - textField
