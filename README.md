@@ -20,7 +20,7 @@ This game contains one long word and you should create different word from it.
 
  ## Project Screen Shots
 
-<img src="Screen1.png" width="200"> <img<img src="Screen2.png" width="200">  src="Screen0.png" width="200"> 
+<img src="Screen1.png" width="200"> <img src="Screen2.png" width="200">  <img src="Screen3.png" width="200"> 
 
 
 
